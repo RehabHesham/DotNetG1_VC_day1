@@ -22,3 +22,10 @@ h1{
     height: 400px;
     overflow: hidden;
 }
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
